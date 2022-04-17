@@ -1,0 +1,5 @@
+#cypress
+cypress/videos
+cypress/downloads
+
+node_modules
